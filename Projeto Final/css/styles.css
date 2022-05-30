@@ -126,7 +126,7 @@ body {
 
 .box-wrapper {
     position: absolute;
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
 }
 
